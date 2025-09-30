@@ -1,0 +1,246 @@
+
+
+{
+  "Common Cold": {
+    "description": "A viral infection causing sneezing, cough, and mild fever.",
+    "home_remedies": ["Drink warm fluids", "Rest", "Steam inhalation", "Honey with warm water"],
+    "allopathy": ["Paracetamol", "Cough Syrup", "Decongestants"],
+    "homeopathy": ["Aconite", "Bryonia", "Belladonna"]
+  },
+  "Fever": {
+    "description": "Elevated body temperature usually due to infection.",
+    "home_remedies": ["Plenty of fluids", "Rest", "Cool compress"],
+    "allopathy": ["Paracetamol", "Ibuprofen"],
+    "homeopathy": ["Belladonna", "Rhus Toxicodendron"]
+  },
+  "Headache": {
+    "description": "Pain in the head or upper neck, can be tension or migraine.",
+    "home_remedies": ["Cold/hot compress", "Relaxation", "Hydration"],
+    "allopathy": ["Paracetamol", "Aspirin"],
+    "homeopathy": ["Nux Vomica", "Belladonna"]
+  },
+  "Cough": {
+    "description": "Reflex to clear airways; can be dry or productive.",
+    "home_remedies": ["Honey", "Ginger tea", "Steam inhalation"],
+    "allopathy": ["Cough syrup", "Bronchodilators"],
+    "homeopathy": ["Bryonia", "Drosera"]
+  },
+  "Sore Throat": {
+    "description": "Pain or irritation in the throat, often due to infection.",
+    "home_remedies": ["Salt water gargle", "Warm tea", "Honey"],
+    "allopathy": ["Lozenges", "Paracetamol", "Antibiotics if bacterial"],
+    "homeopathy": ["Belladonna", "Mercurius Solubilis"]
+  },
+  "Diarrhea": {
+    "description": "Loose or watery stools, often caused by infection or food issues.",
+    "home_remedies": ["Hydration", "BRAT diet", "Probiotics"],
+    "allopathy": ["ORS", "Loperamide"],
+    "homeopathy": ["Arsenicum Album", "Podophyllum"]
+  },
+  "Constipation": {
+    "description": "Difficulty or infrequent bowel movements.",
+    "home_remedies": ["Fiber diet", "Water", "Exercise"],
+    "allopathy": ["Laxatives", "Stool softeners"],
+    "homeopathy": ["Nux Vomica", "Alumina"]
+  },
+  "Acidity": {
+    "description": "Stomach acid reflux causing heartburn and discomfort.",
+    "home_remedies": ["Avoid spicy food", "Small meals", "Aloe vera juice"],
+    "allopathy": ["Antacids", "Proton pump inhibitors"],
+    "homeopathy": ["Nux Vomica", "Carbo Vegetabilis"]
+  },
+  "Back Pain": {
+    "description": "Pain in the lower or upper back due to strain or posture.",
+    "home_remedies": ["Stretching", "Hot/cold compress", "Rest"],
+    "allopathy": ["Pain relievers", "Muscle relaxants"],
+    "homeopathy": ["Rhus Toxicodendron", "Bryonia"]
+  },
+  "Allergy": {
+    "description": "Immune reaction causing sneezing, itching, or rashes.",
+    "home_remedies": ["Avoid allergens", "Cool compress", "Oatmeal baths"],
+    "allopathy": ["Antihistamines", "Steroid creams"],
+    "homeopathy": ["Allium Cepa", "Apis Mellifica"]
+  },
+  "Asthma": {
+    "description": "Chronic respiratory condition causing wheezing and breathlessness.",
+    "home_remedies": ["Breathing exercises", "Avoid triggers", "Steam inhalation"],
+    "allopathy": ["Inhalers", "Bronchodilators", "Steroids"],
+    "homeopathy": ["Sambucus", "Arsenicum Album"]
+  },
+  "Migraine": {
+    "description": "Severe headache often accompanied by nausea and light sensitivity.",
+    "home_remedies": ["Rest in dark room", "Cold compress", "Hydration"],
+    "allopathy": ["Triptans", "Pain relievers"],
+    "homeopathy": ["Glonoinum", "Belladonna"]
+  },
+  "Stomach Ache": {
+    "description": "Pain in the abdomen due to indigestion or infection.",
+    "home_remedies": ["Ginger tea", "Warm compress", "Hydration"],
+    "allopathy": ["Antacids", "Pain relievers"],
+    "homeopathy": ["Nux Vomica", "Carbo Vegetabilis"]
+  },
+  "Skin Rash": {
+    "description": "Redness or irritation on the skin caused by allergies or infections.",
+    "home_remedies": ["Cool compress", "Aloe vera", "Oatmeal baths"],
+    "allopathy": ["Antihistamines", "Steroid creams"],
+    "homeopathy": ["Rhus Toxicodendron", "Apis Mellifica"]
+  },
+  "Insomnia": {
+    "description": "Difficulty falling or staying asleep.",
+    "home_remedies": ["Sleep hygiene", "Avoid screens", "Herbal tea"],
+    "allopathy": ["Melatonin", "Sedatives"],
+    "homeopathy": ["Coffea Cruda", "Nux Vomica"]
+  },
+  "Hypertension": {
+    "description": "High blood pressure that may increase heart disease risk.",
+    "home_remedies": ["Low salt diet", "Exercise", "Stress management"],
+    "allopathy": ["ACE inhibitors", "Beta-blockers"],
+    "homeopathy": ["Baryta Muriaticum", "Nux Vomica"]
+  },
+  "Diabetes": {
+    "description": "High blood sugar due to insulin problems.",
+    "home_remedies": ["Diet control", "Exercise", "Hydration"],
+    "allopathy": ["Insulin", "Metformin"],
+    "homeopathy": ["Syzygium Jambolanum", "Phosphoric Acid"]
+  },
+  "Cold Sores": {
+    "description": "Blisters on lips caused by herpes simplex virus.",
+    "home_remedies": ["Aloe vera", "Ice pack", "Avoid acidic foods"],
+    "allopathy": ["Antiviral creams", "Pain relievers"],
+    "homeopathy": ["Rhus Toxicodendron", "Natrum Muriaticum"]
+  },
+  "Ear Infection": {
+    "description": "Infection of the ear causing pain and sometimes fever.",
+    "home_remedies": ["Warm compress", "Keep ear dry", "Pain relief"],
+    "allopathy": ["Antibiotics", "Painkillers"],
+    "homeopathy": ["Belladonna", "Chamomilla"]
+  },
+  "Joint Pain": {
+    "description": "Pain in joints due to arthritis or injury.",
+    "home_remedies": ["Stretching", "Hot/cold therapy", "Gentle exercise"],
+    "allopathy": ["Pain relievers", "Anti-inflammatories"],
+    "homeopathy": ["Rhus Toxicodendron", "Bryonia"]
+  },
+  "Bronchitis": {
+    "description": "Inflammation of the bronchial tubes causing cough and mucus.",
+    "home_remedies": ["Steam inhalation", "Honey", "Hydration", "Rest"],
+    "allopathy": ["Cough syrups", "Bronchodilators", "Antibiotics if bacterial"],
+    "homeopathy": ["Bryonia", "Antimonium Tartaricum"]
+  },
+  "Pneumonia": {
+    "description": "Lung infection causing cough, fever, and difficulty breathing.",
+    "home_remedies": ["Hydration", "Rest", "Warm fluids"],
+    "allopathy": ["Antibiotics", "Hospital care if severe"],
+    "homeopathy": ["Hepar Sulphuris", "Phosphorus"]
+  },
+  "Sinusitis": {
+    "description": "Inflammation of sinuses causing headache, nasal congestion.",
+    "home_remedies": ["Steam inhalation", "Saline nasal rinse", "Hydration"],
+    "allopathy": ["Decongestants", "Antibiotics if bacterial"],
+    "homeopathy": ["Kali Bichromicum", "Silicea"]
+  },
+  "Urinary Tract Infection": {
+    "description": "Infection in urinary system causing pain, burning urine.",
+    "home_remedies": ["Drink water", "Cranberry juice", "Avoid irritants"],
+    "allopathy": ["Antibiotics", "Pain relievers"],
+    "homeopathy": ["Cantharis", "Sarsaparilla"]
+  },
+  "Anemia": {
+    "description": "Low red blood cells causing fatigue and weakness.",
+    "home_remedies": ["Iron-rich diet", "Vitamin C foods", "Leafy greens"],
+    "allopathy": ["Iron supplements", "Vitamin B12 injections"],
+    "homeopathy": ["Ferrum Metallicum", "China"]
+  },
+  "Gastritis": {
+    "description": "Stomach lining inflammation causing pain, nausea.",
+    "home_remedies": ["Avoid spicy food", "Small meals", "Ginger tea"],
+    "allopathy": ["Antacids", "Proton pump inhibitors"],
+    "homeopathy": ["Nux Vomica", "Arsenicum Album"]
+  },
+  "Acne": {
+    "description": "Inflammation of skin glands causing pimples.",
+    "home_remedies": ["Clean skin", "Aloe vera", "Tea tree oil"],
+    "allopathy": ["Topical creams", "Antibiotics", "Retinoids"],
+    "homeopathy": ["Hepar Sulphuris", "Silicea"]
+  },
+  "Psoriasis": {
+    "description": "Autoimmune skin disorder causing scaly patches.",
+    "home_remedies": ["Moisturize", "Oatmeal baths", "Sunlight exposure"],
+    "allopathy": ["Topical steroids", "Phototherapy", "Immunosuppressants"],
+    "homeopathy": ["Arsenicum Album", "Sulphur"]
+  },
+  "Hemorrhoids": {
+    "description": "Swollen veins in the rectum causing pain and bleeding.",
+    "home_remedies": ["High fiber diet", "Warm sitz bath", "Hydration"],
+    "allopathy": ["Creams", "Pain relief", "Surgery if severe"],
+    "homeopathy": ["Aesculus", "Hamamelis"]
+  },
+  "Hypothyroidism": {
+    "description": "Low thyroid hormone causing fatigue, weight gain.",
+    "home_remedies": ["Balanced diet", "Exercise", "Iodine foods"],
+    "allopathy": ["Levothyroxine"],
+    "homeopathy": ["Calcarea Carbonica", "Thyroidinum"]
+  },
+  "Hyperthyroidism": {
+    "description": "Excess thyroid hormone causing weight loss, anxiety.",
+    "home_remedies": ["Stress management", "Avoid excessive iodine"],
+    "allopathy": ["Anti-thyroid medications", "Beta blockers"],
+    "homeopathy": ["Calcarea Iodica", "Iodum"]
+  },
+  "Ear Wax Blockage": {
+    "description": "Excess ear wax causing hearing problems and discomfort.",
+    "home_remedies": ["Warm olive oil drops", "Avoid cotton swabs"],
+    "allopathy": ["Ear drops", "Syringing by doctor"],
+    "homeopathy": ["Silicea", "Hepar Sulphuris"]
+  },
+  "Tonsillitis": {
+    "description": "Inflammation of tonsils causing sore throat, fever.",
+    "home_remedies": ["Salt water gargle", "Warm fluids", "Rest"],
+    "allopathy": ["Antibiotics if bacterial", "Pain relievers"],
+    "homeopathy": ["Belladonna", "Hepar Sulphuris"]
+  },
+  "Otitis Media": {
+    "description": "Middle ear infection causing pain and sometimes fever.",
+    "home_remedies": ["Warm compress", "Keep ear dry", "Rest"],
+    "allopathy": ["Antibiotics", "Pain relief"],
+    "homeopathy": ["Chamomilla", "Belladonna"]
+  },
+  "Chickenpox": {
+    "description": "Viral infection causing itchy red spots and fever.",
+    "home_remedies": ["Cool baths", "Loose clothing", "Hydration"],
+    "allopathy": ["Antihistamines", "Calamine lotion", "Paracetamol"],
+    "homeopathy": ["Rhus Toxicodendron", "Variolinum"]
+  },
+  "Measles": {
+    "description": "Viral infection with fever, cough, and red rash.",
+    "home_remedies": ["Hydration", "Rest", "Nutritious diet"],
+    "allopathy": ["Supportive care", "Vitamin A", "Fever reducers"],
+    "homeopathy": ["Aconite", "Belladonna"]
+  },
+  "Mumps": {
+    "description": "Viral infection causing swollen salivary glands.",
+    "home_remedies": ["Soft diet", "Warm compress", "Hydration"],
+    "allopathy": ["Pain relievers", "Fever reducers"],
+    "homeopathy": ["Baryta Mur", "Calcarea Carbonica"]
+  },
+  "Influenza": {
+    "description": "Flu virus causing fever, cough, fatigue, and aches.",
+    "home_remedies": ["Rest", "Hydration", "Warm fluids"],
+    "allopathy": ["Antiviral drugs", "Fever reducers"],
+    "homeopathy": ["Oscillococcinum", "Gelsemium"]
+  },
+  "Dengue": {
+    "description": "Viral infection spread by mosquitoes causing fever and pain.",
+    "home_remedies": ["Hydration", "Rest", "Papaya leaf juice"],
+    "allopathy": ["Paracetamol", "Hospitalization if severe"],
+    "homeopathy": ["Belladonna", "Bryonia"]
+  },
+  "Malaria": {
+    "description": "Mosquito-borne disease causing fever, chills, and sweating.",
+    "home_remedies": ["Hydration", "Rest", "Avoid mosquito bites"],
+    "allopathy": ["Antimalarial drugs", "Hospital care if severe"],
+    "homeopathy": ["China", "Arsenicum Album"]
+  }
+}
+
+
